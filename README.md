@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nicola</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+# Hi 👋, I'm Nicola
+## A developer from Cuneo, Italy.
 
 - 🔭 I’m currently working on [JavaScript30](https://github.com/nicolabiagioni/JavaScript30)
 
