@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 ## Hi 👋, I'm Nicola
 ### A developer from Cuneo, Italy.
 
+<!--
 - 🔭 I’m currently working on [JavaScript30](https://github.com/nicolabiagioni/JavaScript30)
 
 - 🌱 I’m currently learning **webpack, babel**
+-->
 
 - 📫 How to reach me **nicola.biagioni@gmail.com**
